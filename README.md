@@ -9,7 +9,8 @@ INPUT
 
 OUTPUT
 
--total cost of installation
+-total cost of a chain-link fence installation
+-total cost of a wooden fence installation
 
 
 PROCESS
