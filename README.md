@@ -42,12 +42,13 @@ CALCULATIONS
 
 	gateCost = $150 + ($150 * additionalGates)
 
-	taxes = (fencingCost + gateCost) * 6%
+	woodTaxes = (fencingCostWood + gateCost) * 6%
+    linkTaxes = (fencingCostLink + gateCost) * 6%
 
 	buildingPermit = $50
 
-	totalCostWood = fencingCostWood + gateCost + taxes + buildingPermit
-    totalCostLink = fencingCostLink + gateCost + taxes + buildingPermit
+	totalCostWood = fencingCostWood + gateCost + woodTaxes + buildingPermit
+    totalCostLink = fencingCostLink + gateCost + linkTaxes + buildingPermit
 
 	
 
